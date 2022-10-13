@@ -4,6 +4,7 @@
 
   ## Some Important Functions:-
   - The humanizeAmount Function is used to display the Account Balance of the user separated using commas to make a better understanding of Account Balance
+  - The Validate Function is used to validate the user credientials and give the user access for the transactions.
   
   
   ## Features and functionalities:-
@@ -14,5 +15,6 @@
   - Withdraw from an Account
   - Checking Account Balance
   - Changing PIN of an existing Account
+ 
 
 
